@@ -1,0 +1,8 @@
+E:\PiCode\GetTemperature\DisUI\bin\Debug\DisUI.exe.config
+E:\PiCode\GetTemperature\DisUI\bin\Debug\DisUI.exe
+E:\PiCode\GetTemperature\DisUI\bin\Debug\DisUI.pdb
+E:\PiCode\GetTemperature\DisUI\obj\x86\Debug\DisUI.Form1.resources
+E:\PiCode\GetTemperature\DisUI\obj\x86\Debug\DisUI.Properties.Resources.resources
+E:\PiCode\GetTemperature\DisUI\obj\x86\Debug\DisUI.csproj.GenerateResource.Cache
+E:\PiCode\GetTemperature\DisUI\obj\x86\Debug\DisUI.exe
+E:\PiCode\GetTemperature\DisUI\obj\x86\Debug\DisUI.pdb

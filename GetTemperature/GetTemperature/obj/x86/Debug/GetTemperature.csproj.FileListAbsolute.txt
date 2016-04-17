@@ -1,0 +1,6 @@
+E:\PiCode\GetTemperature\GetTemperature\bin\Debug\GetTemperature.exe
+E:\PiCode\GetTemperature\GetTemperature\bin\Debug\GetTemperature.pdb
+E:\PiCode\GetTemperature\GetTemperature\obj\x86\Debug\GetTemperature.exe
+E:\PiCode\GetTemperature\GetTemperature\obj\x86\Debug\GetTemperature.pdb
+E:\PiCode\GetTemperature\GetTemperature\bin\Debug\GetTemperature.exe.config
+E:\PiCode\GetTemperature\GetTemperature\obj\x86\Debug\GetTemperature.csprojResolveAssemblyReference.cache
